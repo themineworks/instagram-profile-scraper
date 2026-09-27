@@ -1,0 +1,15 @@
+{
+  "name": "instagram-profile-scraper",
+  "version": "2.0.0",
+  "type": "module",
+  "description": "Followers, bio, and recent posts. No login required. Python, Node.js and cURL clients for the Instagram Profile Scraper on Apify, pay per result.",
+  "main": "instagram_profile_scraper.mjs",
+  "scripts": {
+    "start": "node instagram_profile_scraper.mjs"
+  },
+  "dependencies": {
+    "apify-client": "^2.9.0"
+  },
+  "license": "MIT",
+  "homepage": "https://themineworks.com/actors/instagram-profile-scraper/"
+}
