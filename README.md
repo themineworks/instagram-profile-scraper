@@ -1,11 +1,11 @@
 # Instagram Profile Scraper: Followers, Post Count, No Login
 
-Scrape public Instagram profiles: followers, following, bio, verified status, external links, and recent posts. No login or cookies required. Pay per profile delivered, zero charge on failure.
+Scrape public Instagram profiles: followers, following, bio, verified status, external links, and recent posts. No login or cookies required. Pay per profile delivered, and failed results are never charged.
 
 **Run it on Apify:** [apify.com/themineworks/instagram-profile-scraper](https://apify.com/themineworks/instagram-profile-scraper)
 **Docs, FAQ and pricing:** [themineworks.com/actors/instagram-profile-scraper](https://themineworks.com/actors/instagram-profile-scraper/)
 
-**Price:** $2.00 per 1,000 profiles on Apify's free plan, down to $1.20 on higher plans. Failed and empty results are never charged.
+**Price:** From $1.20 per 1,000 profiles on Apify's higher plans ($2.00 on the free plan). Failed and empty results are never charged.
 
 ## What it returns
 
@@ -13,7 +13,7 @@ Scrape public Instagram profiles: followers, following, bio, verified status, ex
 * Recent posts with engagement metrics
 * External links and contact info extracted
 * No login, no cookies, no API key
-* Zero charge on failed lookups
+* Failed lookups are never charged
 
 ## Quick start
 
@@ -156,11 +156,11 @@ Meta offers the Instagram Graph API but it requires a Facebook app approval, bus
 
 ### What is the pricing model?
 
-Pay per profile delivered. Failed lookups on private or deactivated accounts cost nothing.
+Pay per profile delivered. Failed lookups on private or deactivated accounts are never charged.
 
 ### How much does the Instagram Profile Scraper cost?
 
-$2.00 per 1,000 profiles on Apify's free plan, down to $1.20 on higher plans. Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
+From $1.20 per 1,000 profiles on Apify's higher plans ($2.00 on the free plan). Failed and empty results are never charged. You can cap what a single run may spend with the maximum cost setting on Apify.
 
 ### Can I export the results to CSV or Excel?
 
